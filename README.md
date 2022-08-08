@@ -23,6 +23,6 @@ Sou membro do laborátorio LAMIA - https://www.lamia.sh.utfpr.edu.br - e partici
 </div>
   
   
-<p> 
+<br><p> 
 <img src="https://www.svgrepo.com/show/64624/jedi-logo-symbol.svg"/> May the Force be with you.
   </p>
