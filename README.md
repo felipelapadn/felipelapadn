@@ -15,11 +15,10 @@ Sou membro do laborátorio LAMIA - https://www.lamia.sh.utfpr.edu.br - e partici
 ### Contato
 <a href="https://www.linkedin.com/in/felipelapadn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-<img src="https://www.svgrepo.com/show/64624/jedi-logo-symbol.svg"/> May the Force be with you.
-<br>
-<br>
 <div>
 <a href="https://github.com/felipelapadn">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelapadn&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipelapadn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+<img src="https://www.svgrepo.com/show/64624/jedi-logo-symbol.svg"/> May the Force be with you.
