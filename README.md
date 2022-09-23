@@ -3,7 +3,7 @@
 
 Atualmente, sou acadêmico do curso de Ciência da Computação na UTFPR (Universidade Tecnológica Federal do Paraná).
 
-Sou membro do laborátorio LAMIA - https://www.lamia.sh.utfpr.edu.br - e participo de projetos na área de Ciência de dados e de um grupos interno com o papel de Social Media e Design.
+Sou membro do laborátorio LAMIA - https://www.lamia.sh.utfpr.edu.br - e participo de projetos na área de Ciência de dados e de um grupo interno com o papel de Social Media e Design.
 
 #### Ferramentas e tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>
