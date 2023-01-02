@@ -14,4 +14,4 @@ Sou membro do laborátorio LAMIA - https://www.lamia.sh.utfpr.edu.br - e partici
 ### Contato
 <a href="https://www.linkedin.com/in/felipelapadn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-<img src="https://www.svgrepo.com/show/64624/jedi-logo-symbol.svg"/> May the Force be with you.
+<img src="https://www.svgrepo.com/show/64624/jedi-logo-symbol.svg" width="40" height="40"/> May the Force be with you.
