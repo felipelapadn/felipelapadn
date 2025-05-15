@@ -1,14 +1,16 @@
 ## Olá, me chamo Felipe!
 ### Bem vind_ ao meu perfil.
 
-Atualmente, sou acadêmico do curso de Ciência da Computação na UTFPR (Universidade Tecnológica Federal do Paraná) e membro do laborátorio LAMIA (https://www.lamia.sh.utfpr.edu.br). No laboratório, participo de projetos na área de Ciência de dados e de um grupo interno com o papel de criar conteúdo científico.
+Formado em Ciência da Computação pela Universidade Tecnológica Federal do Paraná (UTFPR), estou avançando na área de Ciência de Dados e Inteligência Artificial. Atuo como Engenheiro de Machine Learning em projetos de P&D, desenvolvendo soluções baseadas em modelos preditivos e análise de dados. Ao longo da minha trajetória, apliquei meus conhecimentos em diversas áreas, como classificação, clusterização, regressão (tanto de valores quanto de séries temporais) e modelos de linguagem (LLMs). Faço parte do Laboratório de Aprendizado de Máquina e Imagens Aplicados à Indústria (LAMIA), onde, além do trabalho técnico, também atuo na gerência. Atualmente, estou cursando a Especialização em Inteligência Artificial Aplicada na UFPR.
 
-#### Ferramentas e tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
-
-
-#### Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+### HABILIDADES E COMPETÊNCIAS
+- Linguagens de Programação: Python, SQL.  
+- Bibliotecas e Ferramentas: Pandas, NumPy, Scikit-learn, Keras, Matplotlib, Seaborn,TensorFlow.  
+- Banco de Dados: MySQL.  
+- Ferramentas de Visualização: Power BI, Matplotlib, Seaborn, Plotly.  
+- Versionamento: Git, GitHub.  
+- Ambientes de Desenvolvimento: Jupyter, VSCode, Google Colab.  
+- Tarefas de aprendizado de máquina: classificação, regressão, previsão com séries temporais, agrupamento e aplicação de modelos de larga escala (LLM).  
 
 #### Contato
 <a href="https://www.linkedin.com/in/felipelapadn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
